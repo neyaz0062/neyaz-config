@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: DtoPrac
+
+  datasource: 
+    url: jdbc:mysql://localhost:3306/dell
+    username: root
+    password: syso
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update   
+ 
+SECRET_KEY: LphGMo6TOqynB6l2k85vWOllSZ5PKwfIX9TTNE1Ob+8=    
