@@ -1,5 +1,5 @@
 hello:
-  neyaz: "Patna"
+  neyaz: "Delhi"
 server:
   port: 9090
 spring:
