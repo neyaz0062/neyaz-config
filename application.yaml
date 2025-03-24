@@ -1,3 +1,5 @@
+message:
+  neyaz: "Sultanpur"
 server:
   port: 9090
 spring:
