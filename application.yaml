@@ -1,4 +1,4 @@
-message:
+hello:
   neyaz: "Sultanpur"
 server:
   port: 9090
